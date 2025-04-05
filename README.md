@@ -60,10 +60,10 @@ EduConnect is an innovative web platform designed around the concept of “Learn
 ## 📦 How to Run Locally
 
 bash
-git clone https://github.com/yourusername/educonnect.git
-cd educonnect
+git clone https://github.com/PurveshMali/DevClash.git
+cd DevClash-main
 npm install
-npm start
+npm run dev
 
 
 ---
