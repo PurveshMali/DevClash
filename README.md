@@ -2,9 +2,6 @@
 
 EduConnect is an innovative web platform designed around the concept of “Learn and Earn.” It connects students, educators, and NGO partners to create an accessible and collaborative learning ecosystem.
 
-## 🔗 Live Demo
-[Insert your deployment link here]
-
 ---
 
 ## ✨ Features
@@ -51,8 +48,7 @@ EduConnect is an innovative web platform designed around the concept of “Learn
 
 - ReactJS + Tailwind CSS  
 - React Router (for navigation)  
-- Firebase / Supabase / Node.js (for backend and authentication — replace as per your stack)  
-- i18next (for multilingual support)  
+- Node.js + MongoDB
 - Framer Motion (for UI animations)
 
 ---
