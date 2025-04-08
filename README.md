@@ -61,7 +61,7 @@ bash(Frontend)
 - cd Frontend
 - npm install
 - npm run dev
-(Backend)
+- (Backend)
 - cd Backend
 - npm i
 - npx nodemon server.js
